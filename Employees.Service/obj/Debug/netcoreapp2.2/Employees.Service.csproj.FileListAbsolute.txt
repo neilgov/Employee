@@ -1,0 +1,14 @@
+C:\Projects\Employees\Employees.Service\bin\Debug\netcoreapp2.2\Employees.Service.deps.json
+C:\Projects\Employees\Employees.Service\bin\Debug\netcoreapp2.2\Employees.Service.dll
+C:\Projects\Employees\Employees.Service\bin\Debug\netcoreapp2.2\Employees.Service.pdb
+C:\Projects\Employees\Employees.Service\bin\Debug\netcoreapp2.2\Employees.Entity.dll
+C:\Projects\Employees\Employees.Service\bin\Debug\netcoreapp2.2\Employees.Persistence.dll
+C:\Projects\Employees\Employees.Service\bin\Debug\netcoreapp2.2\Employees.Entity.pdb
+C:\Projects\Employees\Employees.Service\bin\Debug\netcoreapp2.2\Employees.Persistence.pdb
+C:\Projects\Employees\Employees.Service\obj\Debug\netcoreapp2.2\Employees.Service.csprojAssemblyReference.cache
+C:\Projects\Employees\Employees.Service\obj\Debug\netcoreapp2.2\Employees.Service.csproj.CoreCompileInputs.cache
+C:\Projects\Employees\Employees.Service\obj\Debug\netcoreapp2.2\Employees.Service.AssemblyInfoInputs.cache
+C:\Projects\Employees\Employees.Service\obj\Debug\netcoreapp2.2\Employees.Service.AssemblyInfo.cs
+C:\Projects\Employees\Employees.Service\obj\Debug\netcoreapp2.2\Employees.Service.csproj.CopyComplete
+C:\Projects\Employees\Employees.Service\obj\Debug\netcoreapp2.2\Employees.Service.dll
+C:\Projects\Employees\Employees.Service\obj\Debug\netcoreapp2.2\Employees.Service.pdb

@@ -1,0 +1,9 @@
+C:\Projects\Employees\Employees.Entity\bin\Debug\netcoreapp2.2\Employees.Entity.deps.json
+C:\Projects\Employees\Employees.Entity\bin\Debug\netcoreapp2.2\Employees.Entity.dll
+C:\Projects\Employees\Employees.Entity\bin\Debug\netcoreapp2.2\Employees.Entity.pdb
+C:\Projects\Employees\Employees.Entity\obj\Debug\netcoreapp2.2\Employees.Entity.csprojAssemblyReference.cache
+C:\Projects\Employees\Employees.Entity\obj\Debug\netcoreapp2.2\Employees.Entity.csproj.CoreCompileInputs.cache
+C:\Projects\Employees\Employees.Entity\obj\Debug\netcoreapp2.2\Employees.Entity.AssemblyInfoInputs.cache
+C:\Projects\Employees\Employees.Entity\obj\Debug\netcoreapp2.2\Employees.Entity.AssemblyInfo.cs
+C:\Projects\Employees\Employees.Entity\obj\Debug\netcoreapp2.2\Employees.Entity.dll
+C:\Projects\Employees\Employees.Entity\obj\Debug\netcoreapp2.2\Employees.Entity.pdb

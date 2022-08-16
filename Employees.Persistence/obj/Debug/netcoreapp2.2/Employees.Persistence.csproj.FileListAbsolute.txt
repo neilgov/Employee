@@ -1,0 +1,14 @@
+C:\Projects\Employees\Employees.Persistence\bin\Debug\netcoreapp2.2\Employees.Entity.dll
+C:\Projects\Employees\Employees.Persistence\obj\Debug\netcoreapp2.2\Employees.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\Employees\Employees.Persistence\obj\Debug\netcoreapp2.2\Employees.Persistence.AssemblyInfoInputs.cache
+C:\Projects\Employees\Employees.Persistence\obj\Debug\netcoreapp2.2\Employees.Persistence.AssemblyInfo.cs
+C:\Projects\Employees\Employees.Persistence\obj\Debug\netcoreapp2.2\Employees.Persistence.csprojAssemblyReference.cache
+C:\Projects\Employees\Employees.Persistence\bin\Debug\netcoreapp2.2\Employees.Persistence.deps.json
+C:\Projects\Employees\Employees.Persistence\bin\Debug\netcoreapp2.2\Employees.Persistence.runtimeconfig.json
+C:\Projects\Employees\Employees.Persistence\bin\Debug\netcoreapp2.2\Employees.Persistence.runtimeconfig.dev.json
+C:\Projects\Employees\Employees.Persistence\bin\Debug\netcoreapp2.2\Employees.Persistence.dll
+C:\Projects\Employees\Employees.Persistence\bin\Debug\netcoreapp2.2\Employees.Persistence.pdb
+C:\Projects\Employees\Employees.Persistence\bin\Debug\netcoreapp2.2\Employees.Entity.pdb
+C:\Projects\Employees\Employees.Persistence\obj\Debug\netcoreapp2.2\Employees.Persistence.csproj.CopyComplete
+C:\Projects\Employees\Employees.Persistence\obj\Debug\netcoreapp2.2\Employees.Persistence.dll
+C:\Projects\Employees\Employees.Persistence\obj\Debug\netcoreapp2.2\Employees.Persistence.pdb
