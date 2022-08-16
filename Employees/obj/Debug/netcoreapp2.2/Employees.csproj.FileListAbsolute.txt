@@ -36,3 +36,4 @@ C:\Projects\Employees\Employees\obj\Debug\netcoreapp2.2\Employees.Views.pdb
 C:\Projects\Employees\Employees\obj\Debug\netcoreapp2.2\Employees.csproj.CopyComplete
 C:\Projects\Employees\Employees\obj\Debug\netcoreapp2.2\Employees.dll
 C:\Projects\Employees\Employees\obj\Debug\netcoreapp2.2\Employees.pdb
+C:\Projects\Employees\Employees\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.g.cshtml.cs
