@@ -43,7 +43,7 @@ namespace Employees.Models
         public string Email { get; set; }
 
         [Required, StringLength(50), Display(Name = "ID No.")]
-        [RegularExpression(@"^[0-9]{13}\s]$")]
+       // [RegularExpression(@"^[0-9]{13}\s]$")]
         public string IdentificationNumber { get; set; }
         
       

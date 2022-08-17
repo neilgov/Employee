@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees", "Employees.csproj", "{2B9D1677-D634-402E-B69D-527BBFA43054}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employees", "Employees.csproj", "{2B9D1677-D634-402E-B69D-527BBFA43054}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees.Persistence", "..\Employees.Persistence\Employees.Persistence.csproj", "{EBFD9317-63A7-481C-8104-D4B0388F2AB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employees.Persistence", "..\Employees.Persistence\Employees.Persistence.csproj", "{EBFD9317-63A7-481C-8104-D4B0388F2AB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees.Entity", "..\Employees.Entity\Employees.Entity.csproj", "{B8F401F3-FB49-49AC-9178-2458FCD987AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employees.Entity", "..\Employees.Entity\Employees.Entity.csproj", "{B8F401F3-FB49-49AC-9178-2458FCD987AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees.Service", "..\Employees.Service\Employees.Service.csproj", "{D53B7E34-4BDE-4B58-A68D-F0603E0749E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employees.Service", "..\Employees.Service\Employees.Service.csproj", "{D53B7E34-4BDE-4B58-A68D-F0603E0749E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 using Employees.Entity;
 using Employees.Models;
 using Employees.Service;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting.Internal;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Employees.Controllers
 {
+    [Authorize(Roles = "Admin,Manager,Staff")]
     public class EmployeeController : Controller
     {
         private readonly IEmployeeService _employeeService;
@@ -41,6 +43,7 @@ namespace Employees.Controllers
             return View(employees);
 
         }
+        [Authorize(Roles ="Admin")]
         [HttpGet]
         public IActionResult Create()
         {
@@ -51,6 +54,7 @@ namespace Employees.Controllers
             return View();
         }
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(EmployeeCreateViewModel model)
         {
             if (ModelState.IsValid)
